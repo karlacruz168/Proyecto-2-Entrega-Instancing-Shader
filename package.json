@@ -1,0 +1,29 @@
+{
+  "name": "proyecto-1-entrega-escena-agente",
+  "version": "1.0.0",
+  "private": true,
+  "description": "* **Nombre del Equipo:** Aquaswarm\r * **Integrantes:**\r   * Cruz Duran Karla Lucero (Matrícula: 2213063802)\r   * Cruces Ambriz Denylson Edu (Matrícula: 2223067769)\r   * García López José Said (Matrícula: 2213063642)\r * **UEA:** Seminario de Tecnologías de la Información II (Trimestre 26-P)\r * **Institución:** Universidad Autónoma Metropolitana - Unidad Cuajimalpa",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlacruz168/Proyecto-1-Entrega-Escena-Agente.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlacruz168/Proyecto-1-Entrega-Escena-Agente/issues"
+  },
+  "homepage": "https://github.com/karlacruz168/Proyecto-1-Entrega-Escena-Agente#readme"
+}
